@@ -29,4 +29,12 @@ Test Accuracy: 92.28%
 
 ## Disclaimer
 This is an educational project only.
-It is not intended for medical diagnosis.
+It is not intended for medical diagnosis.## Project Demo Video
+
+Watch the project demonstration here:
+
+[Click here to watch the demo video](## Project Demo Video
+
+Watch the project demonstration here:
+
+[Click here to watch the demo video](https://drive.google.com/drive/folders/1CMAPazGOHrxKB_2SS9YX1VFGbo0xhIIp?usp=drive_link)
