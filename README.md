@@ -40,4 +40,4 @@ Watch the project demonstration here:
 [Click here to watch the demo video](https://drive.google.com/drive/folders/1CMAPazGOHrxKB_2SS9YX1VFGbo0xhIIp?usp=drive_link)
 ## Live Application
 
-[Open Brain Tumor MRI Classification App](brain-tumor-mri-classification-vxpsunj3mux8pqbn6ku8ad)
+[Open Brain Tumor MRI Classification App](brain-tumor-mri-classification-vxpsunj3mux8pqbn6ku8ad.streamlit.app)
